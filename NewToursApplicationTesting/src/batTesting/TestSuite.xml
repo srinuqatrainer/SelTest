@@ -1,0 +1,10 @@
+
+<suite name="Gmail Suite Test">
+  <test name="GmailSuite">
+    <classes>
+	<class name="batTesting.Inbox"/>
+      <class name="batTesting.SentMail"/>
+
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

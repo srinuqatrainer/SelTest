@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35606" started-at="2017-02-20T02:42:33Z" finished-at="2017-02-20T02:43:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35606" started-at="2017-02-20T02:42:33Z" finished-at="2017-02-20T02:43:08Z">
+      <class name="dataBaseTesting.DataBaseTest">
+        <test-method status="PASS" signature="ApplLaunch()[pri:0, instance:dataBaseTesting.DataBaseTest@1619cc4]" name="ApplLaunch" is-config="true" duration-ms="18636" started-at="2017-02-20T08:12:33Z" finished-at="2017-02-20T08:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplLaunch -->
+        <test-method status="PASS" signature="DBTest()[pri:0, instance:dataBaseTesting.DataBaseTest@1619cc4]" name="DBTest" duration-ms="16892" started-at="2017-02-20T08:12:52Z" finished-at="2017-02-20T08:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DBTest -->
+        <test-method status="PASS" signature="ApplClose()[pri:0, instance:dataBaseTesting.DataBaseTest@1619cc4]" name="ApplClose" is-config="true" duration-ms="34" started-at="2017-02-20T08:13:08Z" finished-at="2017-02-20T08:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplClose -->
+      </class> <!-- dataBaseTesting.DataBaseTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
