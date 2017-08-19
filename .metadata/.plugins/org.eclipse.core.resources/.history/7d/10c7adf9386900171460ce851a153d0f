@@ -1,0 +1,17 @@
+package day2;
+
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class WindowHandling
+{
+	public static void main(String[] args) 
+	{
+		FirefoxDriver driver = new FirefoxDriver();
+		driver.get("http://gmail.com");
+		
+		driver.manage().window().maximize();
+		
+
+	}
+
+}
